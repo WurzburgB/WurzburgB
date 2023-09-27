@@ -1,6 +1,24 @@
-<h1>Hi, I'm Wurz! <br/><a href="https://github.com/WurzburgB">Programmer</a>, <a href="https://www.linkedin.com/in/wbrumaire/">Software Engineering Student</a>, <a href="https://meritpages.com/WurzburgB">Merits</a></h1>
+#👨🏾‍💻 Wurzburg Brumaire
 
-<h2>👨‍💻 Software Development Projects:</h2>
+**`Software Engineer (Developer/Student)`**
+
+I am a driven individual currently pursuing a degree in software engineering at Southern New Hampshire University (Online). From a young age, I have always been fascinated with apps and websites and how they operate. 
+
+---
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<br />
+
+#
+
+<h2> 💾 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
