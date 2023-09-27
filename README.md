@@ -1,4 +1,4 @@
-<h1>Hi, I'm Wurz! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/wbrumaire/">Software Engineering Student</a>, <a href="meritpages.com/WurzburgB">Merits</a></h1>
+<h1>Hi, I'm Wurz! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/wbrumaire/">Software Engineering Student</a>, <a href="https://meritpages.com/WurzburgB">Merits</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
