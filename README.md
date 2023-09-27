@@ -50,7 +50,7 @@ I am a driven individual currently pursuing a degree in software engineering at 
 [<img align="left" alt="WurzburgBrumaire | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[instagram]: https://www.instagram.com/joshmadakor/
+[instagram]: https://www.instagram.com/wurzeb/
 [linkedin]: https://linkedin.com/in/wbrumaire
 
 <!--
