@@ -20,8 +20,8 @@ I am a driven individual currently pursuing a degree in software engineering at 
 
 <h2> 💾 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/WurzburgB/ClockProject)
+- <b>Object-Oriented Programming (OOP) </b>
+  - [24 Hour Clock (C++)](https://github.com/WurzburgB/ClockProject)
 
  <details>
  <summary><h3>⛵️ Wurzburg's Coding Journey</h3></summary>
