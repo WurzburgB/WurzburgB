@@ -21,7 +21,7 @@ I am a driven individual currently pursuing a degree in software engineering at 
 <h2> 💾 Software Development Projects:</h2>
 
 - <b>File Log Analyzer </b>
-  - [Online Grocery Store (Python)](https://github.com/WurzburgB/Grocery_Shopping)
+  - [(Python) Project](https://github.com/WurzburgB/log-file-analyzer)
 
  <details>
  <summary><h3>⛵️ Wurzburg's Coding Journey</h3></summary>
