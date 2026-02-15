@@ -20,14 +20,9 @@ I am a driven individual currently pursuing a degree in software engineering at 
 
 <h2> 💾 Software Development Projects:</h2>
 
-- <b>Shopping Simulation </b>
+- <b>File Log Analyzer </b>
   - [Online Grocery Store (Python)](https://github.com/WurzburgB/Grocery_Shopping)
 
-- <b>Text-Based Adventure Game </b>
-  - [Operation Taken (Python)](https://github.com/WurzburgB/TakenGame)
-
-- <b>Object-Oriented Programming (OOP) </b>
-  - [24 Hour Clock (C++)](https://github.com/WurzburgB/ClockProject)
  <details>
  <summary><h3>⛵️ Wurzburg's Coding Journey</h3></summary>
 My coding journey commenced in 2022, during my tenure in sales at a furniture store where I grew increasingly frustrated with our operating system. This system was sluggish and lacked integration; the product catalog resided in one system, while checking stock availability relied on another system. It became a hassle for even the simplest tasks. The entire time I wished I knew how to code to build an app to make my job more efficient. So one day, I reached out to several schools to gather information on their computer science programs. Fast forward to today, and I find myself immersed in the challenging world of coding, occasionally tearing my hair out in the pursuit of mastery. 🚀💻
@@ -35,10 +30,7 @@ My coding journey commenced in 2022, during my tenure in sales at a furniture st
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="WurzburgBrumaire | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="WurzburgBrumaire | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
-[instagram]: https://www.instagram.com/wurzeb/
 [linkedin]: https://linkedin.com/in/wbrumaire
 
 <!--
