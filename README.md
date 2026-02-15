@@ -1,37 +1,89 @@
-<h2> 👨🏾‍💻 Wurzburg Brumaire </h2>
+<h1 align="center">👨🏾‍💻 Wurzburg Brumaire</h1>
 
-**`Software Engineer (Developer/Student)`**
-
-I am a driven individual currently pursuing a degree in software engineering at Southern New Hampshire University (Online). From a young age, I have always been fascinated with apps and websites and how they operate. 
+<h3 align="center">Software Engineer | Backend Developer | Python</h3>
 
 ---
 
-### 🧰 Languages and Tools
+## 👋 About Me
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br />
+I am a Software Engineering graduate from Southern New Hampshire University, graduating October 2025.
 
-#
+I specialize in backend development, data processing, and building efficient systems that solve real business problems. My background in sales and operations gives me a practical perspective on software: I build systems that improve workflows, eliminate friction, and create measurable impact.
 
-<h2> 💾 Software Development Projects:</h2>
+I am currently seeking opportunities where I can contribute to a professional engineering team, write production quality code, and continue growing as a backend developer.
 
-- <b>File Log Analyzer </b>
-  - [(Python) Project](https://github.com/WurzburgB/log-file-analyzer)
+---
 
- <details>
- <summary><h3>⛵️ Wurzburg's Coding Journey</h3></summary>
-My coding journey commenced in 2022, during my tenure in sales at a furniture store where I grew increasingly frustrated with our operating system. This system was sluggish and lacked integration; the product catalog resided in one system, while checking stock availability relied on another system. It became a hassle for even the simplest tasks. The entire time I wished I knew how to code to build an app to make my job more efficient. So one day, I reached out to several schools to gather information on their computer science programs. Fast forward to today, and I find myself immersed in the challenging world of coding, occasionally tearing my hair out in the pursuit of mastery. 🚀💻
+## 🧰 Technical Skills
 
-<h2> 🤳 Connect with me:</h2>
+### 💻 Languages
+- Python
+- Java
+- C++
+- SQL
+- HTML
 
-[<img align="left" alt="WurzburgBrumaire | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### ⚙️ Tools & Concepts
+- Git
+- GitHub
+- Object Oriented Programming
+- REST API Design
+- Data Structures & Algorithms
+- File I/O & Data Parsing
+- Command Line
+- Software Architecture Fundamentals
 
-[linkedin]: https://linkedin.com/in/wbrumaire
+---
+
+## 🚀 Featured Projects
+
+### 🔎 Log File Analyzer
+A Python based log analysis tool that parses raw system log files and transforms them into structured, analyzable data.
+
+**Key Features**
+- Reads and processes large log files efficiently
+- Parses structured data using dictionaries and lists
+- Modular function design with clear separation of concerns
+- Built with scalability and maintainability in mind
+
+🔗 Repository:  
+https://github.com/WurzburgB/log-file-analyzer
+
+---
+
+## 📈 What I Bring to a Team
+
+- Strong foundation in computer science fundamentals
+- Clean, readable, and maintainable code practices
+- Real world business perspective from sales and operations
+- Self driven learner committed to continuous improvement
+- Professional communication and collaboration skills
+
+---
+
+<details>
+<summary><h3>🚀 My Journey Into Software Engineering</h3></summary>
+
+My journey into software engineering began while working in sales operations. I experienced firsthand how inefficient systems slow down businesses. Product catalogs lived in one system, inventory in another, and simple tasks required unnecessary manual effort.
+
+That frustration became curiosity. Curiosity became formal education.
+
+Since 2022, I have focused on mastering programming fundamentals, object oriented design, and practical software development. I approach engineering with a clear goal: build systems that are efficient, maintainable, and valuable to the people who use them.
+
+</details>
+
+---
+
+## 🤝 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/wbrumaire
+
+---
+
+## 📌 Current Focus
+
+- Strengthening backend development skills
+
 
 <!--
 
