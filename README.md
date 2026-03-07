@@ -24,6 +24,8 @@ I am currently seeking opportunities where I can contribute to a professional en
 - HTML
 
 ### ⚙️ Tools & Concepts
+- Flask
+- SQLAlchemy
 - Git
 - GitHub
 - Object Oriented Programming
@@ -36,6 +38,23 @@ I am currently seeking opportunities where I can contribute to a professional en
 ---
 
 ## 🚀 Featured Projects
+
+### 🐞 Bug Tracker
+A web based bug tracking system built with Flask that allows users to report, track, assign, and discuss software bugs.
+
+**Key Features**
+- User authentication and registration
+- Create, edit, assign, and delete bugs
+- Status tracking (Open, In Progress, Closed)
+- Priority levels (Low, Medium, High, Critical)
+- Comment system for bug discussions
+- Dashboard filtering by status and assigned user
+- Built using Flask, SQLAlchemy, and Jinja templates
+
+🔗 Repository:  
+https://github.com/WurzburgB/bug-tracker
+
+---
 
 ### 🔎 Log File Analyzer
 A Python based log analysis tool that parses raw system log files and transforms them into structured, analyzable data.
@@ -82,19 +101,7 @@ Since 2022, I have focused on mastering programming fundamentals, object oriente
 
 ## 📌 Current Focus
 
-- Strengthening backend development skills
-
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Backend development with Python and Flask
+- Building practical web applications
+- Developing an indie game as a solo project to deepen my understanding of game systems and architecture
+- Strengthening system design and backend architecture
